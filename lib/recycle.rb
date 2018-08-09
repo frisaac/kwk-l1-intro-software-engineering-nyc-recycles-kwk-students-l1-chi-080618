@@ -1,7 +1,7 @@
 ###### Code Your Solutions Here!!!
 
 #Your code should work with a hash that looks like the one below (in comments).
-#The specs (which call your tests) are using these exact hashes 
+#The specs (which call your tests) are using these exact hashes
 # We haven't hard coded the hashes in the tests, 
 #they're dynamically brought in from the NYC Open Data API
 
